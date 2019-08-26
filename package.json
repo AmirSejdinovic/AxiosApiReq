@@ -1,0 +1,14 @@
+{
+  "name": "axios-server",
+  "version": "1.0.0",
+  "description": "Kreiranje api poziva axios",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Amir Sejdinović",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.0"
+  }
+}
